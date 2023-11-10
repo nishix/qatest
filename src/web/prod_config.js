@@ -1,5 +1,5 @@
 const config = {
-  apiUrl: '/nishi_api'
+  apiUrl: '/api_nishi'
 };
 
 export default config;
